@@ -60,8 +60,3 @@ The following KPIs were calculated and visualized:
 ```
 
 ---
-
-## ✅ Next Steps
-- Add additional KPIs (e.g., elasticity, cost-to-serve)
-- Build a forecasting view (e.g., using past trends)
-- Connect to live data or APIs for dynamic dashboards
