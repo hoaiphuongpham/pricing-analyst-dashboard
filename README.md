@@ -44,7 +44,7 @@ The following KPIs were calculated and visualized:
 ---
 
 ## Key Findings
-![Full Dashboard](images/Dashboard2025.jpg)
+![image alt](https://github.com/hoaiphuongpham/pricing-analyst-dashboard/blob/961ea0c80d6c35b2f53cb5935e25b7c24a04cf72/Dashboard%202025.jpg)
 
 1. **Top-performing products**:  
    - **Smartwatch** drives the highest profit (€0.23M) with a strong margin of 40%, followed by Yoga Mat and Bluetooth Speaker.
