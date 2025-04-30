@@ -80,7 +80,7 @@ Based on the analysis, consider the following strategic actions:
 ```
 /pricing-analyst-dashboard
 │
-├── pricing_analyst_dataset.csv       # Clean dataset used in Power BI
+├── SalesData.csv       # Clean dataset used in Power BI
 ├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
 └── README.md                         # This file
 ```
