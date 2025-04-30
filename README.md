@@ -1,5 +1,5 @@
 
-# Pricing Analyst Dashboard – Power BI Portfolio Project
+# Financial Dashboard – Power BI Portfolio Project
 
 ## Project Overview
 An interactive Power BI dashboard that reveals how discount strategies, pricing levels, and product mix impact revenue, profit, and margins across regions and categories.
