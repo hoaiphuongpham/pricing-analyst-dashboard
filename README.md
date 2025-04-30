@@ -44,6 +44,8 @@ The following KPIs were calculated and visualized:
 ---
 
 ## Key Findings
+![Full Dashboard](images/Dashboard2025.jpg)
+
 1. **Top-performing products**:  
    - **Smartwatch** drives the highest profit (€0.23M) with a strong margin of 40%, followed by Yoga Mat and Bluetooth Speaker.
    - **Yoga Mat** achieves the highest volume (180 units/month) with a healthy margin of 35%.
