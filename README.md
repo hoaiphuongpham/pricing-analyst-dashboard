@@ -47,6 +47,7 @@ The following KPIs were calculated and visualized:
 1. **Top-performing products**:  
    - **Smartwatch** drives the highest profit (€0.23M) with a strong margin of 40%, followed by Yoga Mat and Bluetooth Speaker.
    - **Yoga Mat** achieves the highest volume (180 units/month) with a healthy margin of 35%.
+     
 2. **Optimal Discount Band**:  
    - **10–20%** discount band generated the highest revenue (€1.1M) while maintaining profitability.
    - Deeper discounts (20%+) did not yield proportional revenue increases.
@@ -77,7 +78,7 @@ Based on the analysis, consider the following strategic actions:
 ```
 /pricing-analyst-dashboard
 │
-├── SalesData.csv       # Clean dataset used in Power BI
+├── pricing_analyst_dataset.csv       # Clean dataset used in Power BI
 ├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
 └── README.md                         # This file
 ```
