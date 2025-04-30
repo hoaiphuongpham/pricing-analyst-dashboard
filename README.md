@@ -2,7 +2,7 @@
 # Pricing Analyst Dashboard – Power BI Portfolio Project
 
 ## Project Overview
-This project simulates the responsibilities of a **Pricing Analyst** by analyzing sales and pricing data for a retail business. The main objective is to explore key pricing metrics, identify margin drivers, and understand the impact of discount strategies using interactive visualizations in **Power BI**.
+An interactive Power BI dashboard that reveals how discount strategies, pricing levels, and product mix impact revenue, profit, and margins across regions and categories.
 
 ---
 
@@ -58,6 +58,18 @@ The following KPIs were calculated and visualized:
    - Asia and South America have growth potential, showing lower current sales but higher margin rates.
 5. **Margin by category**:  
    - Electronics achieved the highest gross margin (~38%), while Apparel lagged (~32%), suggesting a review of cost or price strategy.
+
+---
+
+## Recommendations & Suggestions
+
+Based on the analysis, consider the following strategic actions:
+
+- **Optimize Discount Strategy**: Focus promotions in the 10–20% band where revenue uplift is highest; avoid discounts above 20% that erode profit.
+- **Reprice High-Volume, Low-Margin Products**: Increase prices moderately on mid-tier products (e.g., LED Desk Lamp) to boost margins without sacrificing volume.
+- **Expand in High-Margin Regions**: Allocate marketing spend to Asia and South America, where margins are strong but sales volume is currently low.
+- **Product Portfolio Review**: Evaluate underperforming items (low volume and low margin) for potential phase-out or bundling opportunities.
+- **Continuous Monitoring**: Set up monthly refresh and alerts in Power BI Service for KPI thresholds (e.g., margin drop below 30%).
 
 ---
 
