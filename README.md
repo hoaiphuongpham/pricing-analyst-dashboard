@@ -78,8 +78,7 @@ Based on the analysis, consider the following strategic actions:
 
 ## File Structure
 ```
-/pricing-analyst-dashboard
-│
+/pricing-analyst-dashboard/
 ├── SalesData.csv       # Clean dataset used in Power BI
 ├── Financial Dashboard 2025.pbix                    # Power BI dashboard file
 └── README.md                         # This file
